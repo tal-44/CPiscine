@@ -72,7 +72,6 @@ int	aux(int num, char *str, char *base, int iterator)
 		index = get_index(str[iterator], base);
 	}
 	return (num);
-
 }
 
 int	ft_atoi_base(char *str, char *base)
