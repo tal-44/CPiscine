@@ -1,0 +1,55 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    PseudoCodigo                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jmiguele <jmiguele@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/08/23 13:41:40 by jmiguele          #+#    #+#              #
+#    Updated: 2025/08/23 22:11:53 by jmiguele         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+int	main(args, argc[][])
+{
+
+	up[4]
+	down[4]
+	left[4]
+	right[4]
+
+	matriz[4][4]
+
+	for (up, down, left, right)
+	{
+		if ([i] == 1)
+			matriz[x][y] = [i]
+
+		if ([i] == 4)
+		{
+			----
+			
+			if ([size] == 2)
+				matriz[][size - 1] = 3; 
+
+		}
+
+		if (algun hueco libre)
+			rellenr;
+
+
+	}
+
+	while
+		while
+
+			rellenar como se pueda
+				
+				comprobar que se cumplan todas las reglas (pistas, no se repiten numeros)
+					si se cumplen
+						exit
+					si no
+						volver a empezar con i + 1
+
+
+}
